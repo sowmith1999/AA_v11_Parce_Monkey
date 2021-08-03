@@ -1,0 +1,169 @@
+(28-07-2020 00:46:58) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 00:46:59) Browser is Closed.
+(28-07-2020 00:47:00) Input Excel file is closed.
+(28-07-2020 00:50:49) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 00:50:49) Browser is Closed.
+(28-07-2020 00:50:50) Input Excel file is closed.
+(28-07-2020 00:50:53) Error Description:Please enter a valid email address in the From: field.
+ErrorLine:82
+(28-07-2020 00:51:30) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 00:51:31) Browser is Closed.
+(28-07-2020 00:51:32) Input Excel file is closed.
+(28-07-2020 00:51:35) Error Description:Please enter a valid email address in the From: field.
+ErrorLine:82
+(28-07-2020 00:52:57) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 00:52:58) Browser is Closed.
+(28-07-2020 00:52:59) Input Excel file is closed.
+(28-07-2020 00:53:08) Error Description:The message could not be sent to the SMTP server. The transport error code was 0x80040217. The server response was not available
+
+ErrorLine:82
+(28-07-2020 00:56:42) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 00:56:43) Browser is Closed.
+(28-07-2020 00:56:44) Input Excel file is closed.
+(28-07-2020 00:56:54) Email Sent to sowmithkunapaneni@gmail.com from sowmithkunapaneni@gmail.com with C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\TestInput.xlsx as attachment.
+(28-07-2020 17:43:08) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 17:43:09) Browser is Closed.
+(28-07-2020 17:43:10) Input Excel file is closed.
+(28-07-2020 17:43:22) Email Sent to sowmithkunapaneni@gmail.com from sowmithkunapaneni@gmail.com with C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\ParcelMonkey.xlsx as attachment.
+(28-07-2020 17:51:37)  Record is being Processed.
+(28-07-2020 17:51:59) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 17:52:36)  Record is being Processed.
+(28-07-2020 17:53:23) 2 Record is Processed.
+(28-07-2020 17:53:23) 2 Record is being Processed.
+(28-07-2020 17:53:41) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 17:54:31)  Record is being Processed.
+(28-07-2020 17:55:17) 2 Record is Processed.
+(28-07-2020 17:55:17) 2 Record is being Processed.
+(28-07-2020 17:55:25) 3 Record is Processed.
+(28-07-2020 17:55:25) 3 Record is being Processed.
+(28-07-2020 17:55:35) 4 Record is Processed.
+(28-07-2020 17:55:35) 4 Record is being Processed.
+(28-07-2020 17:55:48) 5 Record is Processed.
+(28-07-2020 17:55:48) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 17:55:48) Browser is Closed.
+(28-07-2020 17:55:49) Input Excel file is closed.
+(28-07-2020 17:55:57) Email Sent to sowmithkunapaneni@gmail.com from sowmithkunapaneni@gmail.com with C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\ParcelMonkey.xlsx as attachment.
+(28-07-2020 17:57:52) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 17:57:53) Browser is Closed.
+(28-07-2020 17:57:53) Input Excel file is closed.
+(28-07-2020 17:58:02) Email Sent to sowmithkunapaneni@gmail.com from sowmithkunapaneni@gmail.com with C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\ParcelMonkey.xlsx as attachment.
+(28-07-2020 17:59:18)  Record is being Processed.
+(28-07-2020 17:59:38) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:00:15)  Record is being Processed.
+(28-07-2020 18:01:01) 2 Record is Processed.
+(28-07-2020 18:01:01) 2 Record is being Processed.
+(28-07-2020 18:01:11) 3 Record is Processed.
+(28-07-2020 18:01:11) 3 Record is being Processed.
+(28-07-2020 18:01:21) 4 Record is Processed.
+(28-07-2020 18:01:21) 4 Record is being Processed.
+(28-07-2020 18:01:33) 5 Record is Processed.
+(28-07-2020 18:01:33) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 18:03:26)  Record is being Processed.
+(28-07-2020 18:04:12) 2 Record is Processed.
+(28-07-2020 18:04:12) 2 Record is being Processed.
+(28-07-2020 18:04:20) 3 Record is Processed.
+(28-07-2020 18:04:20) 3 Record is being Processed.
+(28-07-2020 18:04:31) 4 Record is Processed.
+(28-07-2020 18:04:31) 4 Record is being Processed.
+(28-07-2020 18:04:44) 5 Record is Processed.
+(28-07-2020 18:04:44) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 18:04:44) Browser is Closed.
+(28-07-2020 18:04:45) Input Excel file is closed.
+(28-07-2020 18:04:50) Email Sent to sowmithkunapaneni@gmail.com from sowmithkunapaneni@gmail.com with C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\ParcelMonkey.xlsx as attachment.
+(28-07-2020 18:07:14)  Record is being Processed.
+(28-07-2020 18:07:24) Error Description:Unable to perform 'Click' action. 
+ErrorLine:38
+(28-07-2020 18:08:29)  Record is being Processed.
+(28-07-2020 18:08:49) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:09:26)  Record is being Processed.
+(28-07-2020 18:10:13) 2 Record is Processed.
+(28-07-2020 18:10:13) 2 Record is being Processed.
+(28-07-2020 18:10:21) 3 Record is Processed.
+(28-07-2020 18:10:21) 3 Record is being Processed.
+(28-07-2020 18:10:32) 4 Record is Processed.
+(28-07-2020 18:10:32) 4 Record is being Processed.
+(28-07-2020 18:10:45) 5 Record is Processed.
+(28-07-2020 18:10:45) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 18:10:45) Browser is Closed.
+(28-07-2020 18:10:46) Input Excel file is closed.
+(28-07-2020 18:10:55) Email Sent to sowmithkunapaneni@gmail.com from sowmithkunapaneni@gmail.com with C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\ParcelMonkey.xlsx as attachment.
+(28-07-2020 18:12:24)  Record is being Processed.
+(28-07-2020 18:13:11) 2 Record is Processed.
+(28-07-2020 18:13:11) 2 Record is being Processed.
+(28-07-2020 18:13:20) 3 Record is Processed.
+(28-07-2020 18:13:20) 3 Record is being Processed.
+(28-07-2020 18:13:30) 4 Record is Processed.
+(28-07-2020 18:13:30) 4 Record is being Processed.
+(28-07-2020 18:13:43) 5 Record is Processed.
+(28-07-2020 18:13:43) All the Record in Input Excel Sheet are Processed.
+(28-07-2020 18:17:02)  Record is being Processed.
+(28-07-2020 18:17:48) 2 Record is Processed.
+(28-07-2020 18:17:48) 2 Record is being Processed.
+(28-07-2020 18:17:56) 3 Record is Processed.
+(28-07-2020 18:17:56) 3 Record is being Processed.
+(28-07-2020 18:18:07) 4 Record is Processed.
+(28-07-2020 18:18:07) 4 Record is being Processed.
+(28-07-2020 18:18:25) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:19:58)  Record is being Processed.
+(28-07-2020 18:20:44) 2 Record is Processed.
+(28-07-2020 18:20:44) 2 Record is being Processed.
+(28-07-2020 18:20:52) 3 Record is Processed.
+(28-07-2020 18:20:52) 3 Record is being Processed.
+(28-07-2020 18:21:04) 4 Record is Processed.
+(28-07-2020 18:21:04) 4 Record is being Processed.
+(28-07-2020 18:21:16) 5 Record is Processed.
+(28-07-2020 18:21:16) 5 Record is being Processed.
+(28-07-2020 18:21:26) 6 Record is Processed.
+(28-07-2020 18:21:26) 6 Record is being Processed.
+(28-07-2020 18:21:45) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:22:27)  Record is being Processed.
+(28-07-2020 18:23:13) 2 Record is Processed.
+(28-07-2020 18:23:13) 2 Record is being Processed.
+(28-07-2020 18:23:32) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:24:22)  Record is being Processed.
+(28-07-2020 18:25:09) 2 Record is Processed.
+(28-07-2020 18:25:09) 2 Record is being Processed.
+(28-07-2020 18:25:20) 3 Record is Processed.
+(28-07-2020 18:25:20) 3 Record is being Processed.
+(28-07-2020 18:25:31) 4 Record is Processed.
+(28-07-2020 18:25:31) 4 Record is being Processed.
+(28-07-2020 18:25:45) 5 Record is Processed.
+(28-07-2020 18:25:45) 5 Record is being Processed.
+(28-07-2020 18:25:57) 6 Record is Processed.
+(28-07-2020 18:25:57) 6 Record is being Processed.
+(28-07-2020 18:26:17) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:29:09)  Record is being Processed.
+(28-07-2020 18:29:56) 2 Record is Processed.
+(28-07-2020 18:29:56) 2 Record is being Processed.
+(28-07-2020 18:30:08) 3 Record is Processed.
+(28-07-2020 18:30:08) 3 Record is being Processed.
+(28-07-2020 18:30:12) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:31:04)  Record is being Processed.
+(28-07-2020 18:31:51) 2 Record is Processed.
+(28-07-2020 18:31:51) 2 Record is being Processed.
+(28-07-2020 18:31:57) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:33:13)  Record is being Processed.
+(28-07-2020 18:34:06) 2 Record is Processed.
+(28-07-2020 18:34:06) 2 Record is being Processed.
+(28-07-2020 18:34:12) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:44:15)  Record is being Processed.
+(28-07-2020 18:44:33) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38
+(28-07-2020 18:45:44)  Record is being Processed.
+(28-07-2020 18:47:07) 2 Record is Processed.
+(28-07-2020 18:47:07) 2 Record is being Processed.
+(28-07-2020 18:47:22) 3 Record is Processed.
+(28-07-2020 18:47:22) 3 Record is being Processed.
+(28-07-2020 18:47:39) Error Description:Unable to find PushButton. ‘Search Criteria’ did not match.
+ErrorLine:38

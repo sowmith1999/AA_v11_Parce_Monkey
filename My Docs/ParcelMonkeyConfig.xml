@@ -1,0 +1,6 @@
+<ParcelMonkey>
+    <InputExcelPath>C:\Users\Sowmith Kunapaneni\Documents\Automation Anywhere Files\Automation Anywhere\My Docs\ParcelMonkey\My Docs\ParcelMonkey.xlsx</InputExcelPath>
+	<ToEmail>sowmithkunapaneni@gmail.com</ToEmail>
+	<FromEmail>sowmithkunapaneni@gmail.com</FromEmail>
+	<URL>https://www.parcelmonkey.co.uk/</URL>
+</ParcelMonkey>

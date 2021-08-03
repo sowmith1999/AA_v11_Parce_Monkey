@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="ParcelMonkey.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/02/2020 17:32:35</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+</Entities>
